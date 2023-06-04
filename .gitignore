@@ -1,0 +1,31 @@
+# Compiled files
+build/
+devel/
+
+# Dependency folders
+install/
+
+# Environment configuration
+.catkin_workspace
+
+*.autosave
+*.swp
+*.save
+*.save.1
+
+# ROS log files
+/log/
+
+# Other catkin-generated folders
+/.rosinstall
+/rosdep/
+/src/CMakeLists.txt.user*
+
+# IDE specific files (add or remove based on your preference)
+.vscode/
+.idea/
+
+# Custom files or folders you want to exclude (add as needed)
+# example_file.txt
+# example_folder/
+
